@@ -4,7 +4,7 @@ public class MediaAlunos {
 	public static void main(String[] args) {
 		int mediaFinal = 5;
 		if (mediaFinal <6)
-			System.out.println("REPROVADO");
+			System.out.println("APROVADO");
 		else if(mediaFinal == 6)
 			System.out.println("PROVA RECUPERACAO");
 		else
